@@ -2,5 +2,5 @@
 #include "fun.h"
 
 int main() {
- return power(4, 2);
+return power(4, 2);
 }
